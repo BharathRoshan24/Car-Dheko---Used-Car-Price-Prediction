@@ -9,8 +9,6 @@ import pandas as pd
 from streamlit_extras.dataframe_explorer import dataframe_explorer
 from streamlit_extras.colored_header import colored_header
 from streamlit_extras.let_it_rain import rain
-import streamlit_pandas as sp
-import google.cloud
 
 
 # In[4]:
