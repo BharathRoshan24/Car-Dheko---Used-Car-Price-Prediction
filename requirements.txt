@@ -1,7 +1,6 @@
 streamlit
 pandas
 streamlit-extras
-streamlit-pandas
 google-cloud
 numpy
 matplotlib
